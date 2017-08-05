@@ -1,0 +1,75 @@
+{
+  "author": {
+    "name": "Bruno Pacheco",
+    "email": "maisumbruno@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/btscp/limesurvey-parser/issues"
+  },
+  "contributors": [
+    {
+      "name": "Fernando Aires Castello",
+      "url": "https://github.com/FernandoAiresCastello"
+    },
+    {
+      "name": "Bruno Pacheco",
+      "url": "https://github.com/maisumbruno"
+    }
+  ],
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {},
+  "directories": {
+    "lib": "./lib/",
+    "test": ""
+  },
+  "dist": {},
+  "engines": {
+    "node": ">=8.2.1"
+  },
+  "files": [
+    "lib/limesurvey-parser.js",
+    "index.js"
+  ],
+  "gitHead": "",
+  "homepage": "",
+  "keywords": [
+    "limesurvey-parser",
+    "limesurvey",
+    "parser",
+    "api",
+    "remote-control-2",
+    "javascript",
+    "merge",
+    "json"
+  ],
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/unclechu/node-deep-extend/master/LICENSE"
+    }
+  ],
+  "main": "lib/deep-extend.js",
+  "maintainers": [
+    {
+      "name": "Fernando Aires Castello",
+      "url": "https://github.com/FernandoAiresCastello"
+    },
+    {
+      "name": "Bruno Pacheco",
+      "url": "https://github.com/maisumbruno",
+      "email": "maisumbruno@gmail.com"
+    }
+  ],
+  "name": "limesurvey-parser",
+  "optionalDependencies": {},
+  "readme": "",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/btscp/limesurvey-parser.git"
+  },
+  "scripts": {},
+  "version": "0.0.1"
+}
